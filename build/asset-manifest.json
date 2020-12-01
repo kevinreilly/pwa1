@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/static/js/main.73946681.chunk.js",
-    "main.js.map": "/static/js/main.73946681.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ab85eab3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ab85eab3.js.map",
-    "static/js/2.7599c84a.chunk.js": "/static/js/2.7599c84a.chunk.js",
-    "static/js/2.7599c84a.chunk.js.map": "/static/js/2.7599c84a.chunk.js.map",
-    "static/js/3.63fb59fc.chunk.js": "/static/js/3.63fb59fc.chunk.js",
-    "static/js/3.63fb59fc.chunk.js.map": "/static/js/3.63fb59fc.chunk.js.map",
-    "index.html": "/index.html",
-    "service-worker.js": "/service-worker.js",
-    "service-worker.js.map": "/service-worker.js.map",
-    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.7599c84a.chunk.js.LICENSE.txt": "/static/js/2.7599c84a.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg"
+    "main.css": "/pwa1/build/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/pwa1/build/static/js/main.bace096c.chunk.js",
+    "main.js.map": "/pwa1/build/static/js/main.bace096c.chunk.js.map",
+    "runtime-main.js": "/pwa1/build/static/js/runtime-main.cb1516de.js",
+    "runtime-main.js.map": "/pwa1/build/static/js/runtime-main.cb1516de.js.map",
+    "static/js/2.7599c84a.chunk.js": "/pwa1/build/static/js/2.7599c84a.chunk.js",
+    "static/js/2.7599c84a.chunk.js.map": "/pwa1/build/static/js/2.7599c84a.chunk.js.map",
+    "static/js/3.63fb59fc.chunk.js": "/pwa1/build/static/js/3.63fb59fc.chunk.js",
+    "static/js/3.63fb59fc.chunk.js.map": "/pwa1/build/static/js/3.63fb59fc.chunk.js.map",
+    "index.html": "/pwa1/build/index.html",
+    "service-worker.js": "/pwa1/build/service-worker.js",
+    "service-worker.js.map": "/pwa1/build/service-worker.js.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/pwa1/build/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7599c84a.chunk.js.LICENSE.txt": "/pwa1/build/static/js/2.7599c84a.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/pwa1/build/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab85eab3.js",
+    "static/js/runtime-main.cb1516de.js",
     "static/js/2.7599c84a.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.73946681.chunk.js"
+    "static/js/main.bace096c.chunk.js"
   ]
 }
